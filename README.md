@@ -46,4 +46,6 @@ Initial cleaning revealed substantial missing data in some columns:
 > ![Aircraft Technical factors](images/output_109_0.png)  
 > 🟩 **Insight:** Planes with 1 jet engine of a Hybrid Rocket type and planes with 3 jet engines of a Turbo Shaft type have been involved in the most incidents.
  
-
+### Tableau Visuals
+For further visual please see this visualizations by tableau
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/ray.onsongo/viz/AviationProject_17533910216000/AviationAnalysis?publish=yes)
