@@ -33,3 +33,5 @@ Initial cleaning revealed substantial missing data in some columns:
 > A bar chart showing the top 10 aircraft models with the highest total number of fatal injuries.
 > ![Top Fatal Models](images/output_99_0.png)
 >  🟥 **Insight:** The **Cessna 152** and aircraft from **Cessna** and **Piper** brands appear frequently, suggesting high safety concerns.
+
+
