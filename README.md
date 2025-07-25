@@ -34,4 +34,11 @@ Initial cleaning revealed substantial missing data in some columns:
 > ![Top Fatal Models](images/output_99_0.png)
 >  🟥 **Insight:** The **Cessna 152** and aircraft from **Cessna** and **Piper** brands appear frequently, suggesting high safety concerns.
 
+### 2. Flight Phase vs Incidents and Fatalities (Heatmap)
+![Flight Phase Heatmap](#)
+> A heatmap showing the relationship between **flight phases** and the frequency of **incidents and fatalities**.
+>  ![Flight Phase Heatmap](images/output_104_0.png)
+> ⚠️ **Insight:** The **landing phase** recorded the most incidents (~44,000) and fatalities (~6,500), followed by takeoff and approach phases.
+
+### 3. 
 
