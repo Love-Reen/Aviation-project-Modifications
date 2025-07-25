@@ -44,6 +44,6 @@ Initial cleaning revealed substantial missing data in some columns:
 ![Aircraft Technical factors](#)
 > A bar chart showing which aircraft engines suffered the most accidents.
 > ![Aircraft Technical factors](images/output_109_0.png)  
-> 🟩 **Insight:** Models such as **1200** and **177MF LLC** had very low fatal incident rates, making them suitable for safe investment.
+> 🟩 **Insight:** Planes with 1 jet engine of a Hybrid Rocket type and planes with 3 jet engines of a Turbo Shaft type have been involved in the most incidents.
  
 
