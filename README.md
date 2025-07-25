@@ -49,3 +49,20 @@ Initial cleaning revealed substantial missing data in some columns:
 ### Tableau Visuals
 For further visual please see this visualizations by tableau
 [View the Tableau Dashboard](https://public.tableau.com/app/profile/ray.onsongo/viz/AviationProject_17533910216000/AviationAnalysis?publish=yes)
+
+## Conclusion
+
+### 📌 Summary of Findings:
+- **High-Risk Aircraft**: The Cessna and Piper aircraft brands were frequently involved in fatal accidents.
+- **Low-Risk Options**: Aircraft such as 1200 and 177MF LLC demonstrated excellent safety records.
+- **Flight Phase Dangers**: The landing phase is the riskiest, with significantly more fatalities than other flight stages.
+- **High-Risk Engines**: Planes with 1 jet engine of a Hybrid Rocket type and planes with 3 jet engines of a Turbo Shaft type are the riskiest
+
+### ✅ Recommendations:
+- Focus investments on aircraft types with low incident and injury rates.
+- Avoid categories with limited safety data or high missing values.
+- Use flight phase risk analysis to inform pilot training and improve landing/takeoff protocols.
+
+---
+
+📁 *This repository includes the Jupyter notebook (`.ipynb`) with all analysis, visualizations, and source code.*
