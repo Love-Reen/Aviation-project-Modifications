@@ -40,5 +40,10 @@ Initial cleaning revealed substantial missing data in some columns:
 >  ![Flight Phase Heatmap](images/output_104_0.png)
 > ⚠️ **Insight:** The **landing phase** recorded the most incidents (~44,000) and fatalities (~6,500), followed by takeoff and approach phases.
 
-### 3. 
+### 2. Aircraft Technical factors
+![Aircraft Technical factors](#)
+> A bar chart showing which aircraft engines suffered the most accidents.
+> ![Aircraft Technical factors](images/output_109_0.png)  
+> 🟩 **Insight:** Models such as **1200** and **177MF LLC** had very low fatal incident rates, making them suitable for safe investment.
+ 
 
