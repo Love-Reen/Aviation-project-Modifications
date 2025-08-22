@@ -48,7 +48,7 @@ Initial cleaning revealed substantial missing data in some columns:
  
 ### Tableau Visuals
 For further visual please see this visualizations by tableau
-[View the Tableau Dashboard](https://public.tableau.com/app/profile/ray.onsongo/viz/AviationProject_17533910216000/AviationAnalysis?publish=yes)
+[View the Tableau Dashboard](https://public.tableau.com/app/profile/doreen.wathimu/viz/AviationProject_17558631001470/AviationAnalysis?publish=yes)
 
 ## Conclusion
 
